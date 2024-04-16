@@ -1,0 +1,6 @@
+app name = cmaringe_twitter_api_auth
+API Key = lwUBjypAze5YdG6P6XlIoYeeR
+API Key Secret = PfFW46o1fkkU34oruYsQVoIW2UfB1RwAw5D0gqGbbTRfgJN4f7
+Bearer Token = AAAAAAAAAAAAAAAAAAAAADrpswEAAAAAYkIuUx0wtOt1pyLI5t%2FYQfmyIZs%3DGkXMXtyodKITXJHdW3ftlQ24PlHpQGt8B8mF7MZQAek5H2Ovcd
+Access Token = 900136337629528064-11lA9TcyoFGtRJSVTLddARgx4mE70HA
+Access Token Secret = Rwh0wzgg4Hg3r6pP0xKYtlr7MY9pypSHApJUUNU91wMgc
